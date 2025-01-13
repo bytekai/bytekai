@@ -18,8 +18,6 @@
   <br/>
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  
   <br/>
   
   <div>
