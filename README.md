@@ -11,7 +11,7 @@
   
   <br/>
   
-  <a href="https://your-portfolio-url.com">
+  <a href="https://bytekai.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   
