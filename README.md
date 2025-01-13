@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**bytekai/bytekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://your-portfolio-url.com">
+    <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kai&fontSize=90&animation=fadeIn&fontAlignY=38&customColorList=0,2,2,5"/>
+  </a>
+  
+  <br/>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Software_Engineer-000000?style=for-the-badge&logoColor=white"/>
+  </div>
+  
+  <br/>
+  
+  <a href="https://your-portfolio-url.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
+  <br/>
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  
+  <br/>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Focus-Web_Performance-blue?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Focus-System_Architecture-green?style=flat-square"/>
+  </div>
+</div>
